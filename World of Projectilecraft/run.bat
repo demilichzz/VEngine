@@ -1,0 +1,1 @@
+java -jar WoP.jar

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: . WoP_lib/tritonus_share.jar WoP_lib/jl1.0.jar WoP_lib/lua
+ java-1.1.jar WoP_lib/mp3spi1.9.4.jar
+Main-Class: system.VEngine
+
