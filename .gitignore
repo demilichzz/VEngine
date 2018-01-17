@@ -1,0 +1,6 @@
+*.class
+*.jar
+/PADSimulator/res
+/PADSimulator/bin
+/World of ProjectileCraft/res
+/World of ProjectileCraft/bin
